@@ -5,7 +5,7 @@ Reproducible material for
 
 **Joint Microseismic Event Detection and Location with a Detection Transformer - Yang Y., Birnie C., Alkhalifah T.**
 
-[Click here]([https://github.com/DeepWave-KAUST](https://onlinelibrary.wiley.com/doi/10.1111/1365-2478.70040?af=R)) to access the paper.
+[Click here](https://onlinelibrary.wiley.com/doi/10.1111/1365-2478.70040?af=R) to access the paper.
 
 
 # Project structure
