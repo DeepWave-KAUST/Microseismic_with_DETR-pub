@@ -5,7 +5,7 @@ Reproducible material for
 
 **Joint Microseismic Event Detection and Location with a Detection Transformer - Yang Y., Birnie C., Alkhalifah T.**
 
-[Click here](https://github.com/DeepWave-KAUST) to access the paper.
+[Click here]([https://github.com/DeepWave-KAUST](https://onlinelibrary.wiley.com/doi/10.1111/1365-2478.70040?af=R)) to access the paper.
 
 
 # Project structure
@@ -56,9 +56,10 @@ bash train_network.sh
 ## Cite us 
 ```
 @article{yang2023joint,
-  title={Joint Microseismic Event Detection and Location with a Detection Transformer},
+  title={Joint microseismic event detection and location with a detection transformer},
   author={Yang, Yuanyuan and Birnie, Claire and Alkhalifah, Tariq},
-  journal={arXiv preprint arXiv:2307.09207},
-  year={2023}
-}
-```
+  journal={Geophysical Prospecting},
+  pages={e70040},
+  year={2023},
+  publisher={Wiley Online Library}
+}```
