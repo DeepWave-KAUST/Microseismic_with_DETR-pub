@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "MicroseismicDETR"
+authors = [
+    {name = "Yuanyuan Yang", email = "yuanyuan.yang@kaust.edu.sa"},
+]
+description = "Joint Microseismic Event Detection and Location with a Detection Transformer"
+readme = "README.md"
+requires-python = ">=3.8"
+keywords = ["microseismic", "detection", "location", "machine learning", "transformer"]
+license = {text = "BSD 3-Clause License"}
+classifiers = [
+        "Intended Audience :: Science/Research",
+        "Natural Language :: English",
+        "Programming Language :: Python :: 3.8",
+        "Programming Language :: Python :: 3.9",
+        "Topic :: Scientific/Engineering :: Mathematics",
+    ]
+
+
+dynamic = ["version"]
+
+[tool.setuptools.packages]
+find = {}
